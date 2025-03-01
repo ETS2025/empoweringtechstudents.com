@@ -1,0 +1,143 @@
+.project-proposal {
+background-color: #0f0f0eee;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.project-proposal h1 {
+color: #fff;
+margin-bottom: 10px;
+}
+
+.project-proposal h2 {
+color: #fff;
+margin-bottom: 10px;
+}
+
+.project-proposal p {
+color: #fff;
+margin-bottom: 20px;
+}
+
+.project-proposal ol {
+list-style: decimal inside;
+padding: 0;
+margin: 0;
+color: #fff;
+}
+
+.project-proposal li {
+margin-bottom: 10px;
+}
+
+.project-proposal a {
+color: #4e64e9;
+text-decoration: none;
+}
+
+.project-proposal a:hover {
+color: #fff;
+}
+
+main {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 2em;
+}
+
+.awareness {
+background-color: #f7f7f7;
+padding: 2em;
+border: 1px solid #ddd;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.awareness h1 {
+margin-top: 0;
+}
+
+.orientation {
+background-color: #f7f7f7;
+padding: 2em;
+border: 1px solid #ddd;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+margin-top: 20px;
+}
+
+.call-to-action {
+background-color: #f7f7f7;
+padding: 2em;
+border: 1px solid #ddd;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+margin-top: 20px;
+}
+
+.button-container {
+text-align: center;
+margin-top: 20px;
+}
+
+.donate-button {
+background-color: #4CAF50;
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+}
+
+.sponsor-button {
+background-color: #03A9F4;
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+margin-left: 10px;
+}
+
+.donate-button:hover {
+background-color: #3e8e41;
+}
+
+.sponsor-button:hover {
+background-color: #039BE5;
+}
+
+.button-container {
+text-align: center;
+margin-top: 20px;
+}
+
+.learn-more-button {
+background-color: #4CAF50;
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+}
+
+.apply-button {
+background-color: #03A9F4;
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+margin-left: 10px;
+}
+
+.learn-more-button:hover {
+background-color: #3e8e41;
+}
+
+.apply-button:hover {
+background-color: #039BE5;
+}
